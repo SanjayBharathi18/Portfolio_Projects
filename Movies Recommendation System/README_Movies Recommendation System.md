@@ -29,7 +29,7 @@ We have deployed the Movie recommendation system in streamlit and displayed the 
 - Copy/Download the codes from [MoviesRecommendationSystem.ipynb](https://github.com/SanjayBharathi18/Portfolio_Projects/blob/9f35192d598798ccbb1790841013de4918fdc284/Movies%20Recommendation%20System/MoviesRecommendationSystem.ipynb) and [MovieRecommendApp.py](https://github.com/SanjayBharathi18/Portfolio_Projects/blob/9f35192d598798ccbb1790841013de4918fdc284/Movies%20Recommendation%20System/MovieRecommendApp.py)
 -  Go to the command prompt.
 - Change to the directory where code files were placed.
-- Type the below command and click enter.
+- Type the command below and click enter.
 - It will be directed to streamlit website where our project is deployed. 
 
 
