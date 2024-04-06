@@ -10,6 +10,7 @@ This repository contains the Machine Learning projects which were done during my
 - This dataset contains transactions made by credit cards in September 2013 by European cardholders.
 - The dataset is highly imbalanced, with the positive class (frauds) accounting for 0.17% of all transactions.
 - Used sampling technique to overcome this problem.
+
 **CLASSIFICATION MODELS USED**
 - Logistic Regression
 - Support Vector Machine
